@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-sdk-go",
+  "version": "0.1.0",
+  "devDependencies": {
+    "aliyun-sdk": "^1.8.2"
+  }
+}
